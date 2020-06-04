@@ -1,2 +1,2 @@
-# DCGAN-on-MNIST
-this is an implementation of a "deep convolutional generative adversarial network" using TensorFlow on the MNIST dataset.
+# GAN-and-DCGAN-on-MNIST
+this is a template for "deep convolutional generative adversarial network" using TensorFlow on the MNIST dataset.
